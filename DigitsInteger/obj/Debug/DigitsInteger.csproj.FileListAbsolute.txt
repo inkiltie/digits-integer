@@ -1,0 +1,6 @@
+C:\Users\Nikita Tolpekin\Desktop\DigitsInteger\DigitsInteger\bin\Debug\DigitsInteger.exe.config
+C:\Users\Nikita Tolpekin\Desktop\DigitsInteger\DigitsInteger\bin\Debug\DigitsInteger.exe
+C:\Users\Nikita Tolpekin\Desktop\DigitsInteger\DigitsInteger\bin\Debug\DigitsInteger.pdb
+C:\Users\Nikita Tolpekin\Desktop\DigitsInteger\DigitsInteger\obj\Debug\DigitsInteger.csprojResolveAssemblyReference.cache
+C:\Users\Nikita Tolpekin\Desktop\DigitsInteger\DigitsInteger\obj\Debug\DigitsInteger.exe
+C:\Users\Nikita Tolpekin\Desktop\DigitsInteger\DigitsInteger\obj\Debug\DigitsInteger.pdb
